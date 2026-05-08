@@ -10,6 +10,12 @@ Data Engineering & Analytics portfolio — SQL, Python, dbt, Power BI projects
 **Bulgular:** Alkol seviyesi (+0.48 korelasyon), volatile acidity (-0.41), sulphates (+0.26) kaliteyi belirleyen en güçlü özellikler  
 **Notebook:** [`projects/wine_quality_eda.ipynb`](projects/wine_quality_eda.ipynb)
 
+
+### Google Play Store — EDA & Feature Engineering
+- **Kaggle:** [View Notebook](https://www.kaggle.com/code/yusaguler/google-play-store-apps-eda-feature-engineering)
+- **Topics:** Data Cleaning, EDA, Target Encoding
+- **Tools:** Python, Pandas, Matplotlib, Seaborn
+
 ---
 
 ## 🛠️ Teknolojiler
